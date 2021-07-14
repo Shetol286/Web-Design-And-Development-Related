@@ -1,0 +1,7 @@
+.headline {background: #444; color: skyblue; font-size: 40px; font-family: arial black; text-align: center}
+.menu {background: green; color: black; font-size: 16px; font-family: arial; text-align: center; padding: 40px;}
+.footer {background: red; color: black; font-size: 16px; font-family: arial; text-align: center; padding: 30px;}
+.sidebar {background: black; color: white; font-size: 16px; width: 300px; float: left}
+.contentarea {padding: 30px; background: #ddd; color: black; font-size: 22px; width: 390px; float: right}
+.country {width: 750px; margin: auto}
+.sidebarandcontent {overflow: auto;}
